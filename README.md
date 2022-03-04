@@ -3,7 +3,7 @@ Pour ce projet, nous allons reprendre des exercices basiques de programmation qu
 
 RENDU
 Un dossier qui contient un fichier index.html et les scripts demandés. Chaque script contient le code d'un des exercices. 
-Avrai dire, je me suis arretée au 4
+A vrai dire, je me suis arretée au 4
 
 TEST
 Pour tester, il faut ouvrir le fichier index.html dans le navigateur et faire
